@@ -1,1 +1,1 @@
-This repository contains a list of definitions, corollaries, theorems, etc. from chapters 1-7 of Walter Rudin's Principles of Mathematical Analysis which I typeset in LaTeX for my real analysis class. (I will upload the files for chapters 1-3 and chapter 5 once I finish typesetting them.) The font I used was AMS Euler.
+This repository contains a list of definitions, corollaries, theorems, etc. from chapters 1-8 of Walter Rudin's Principles of Mathematical Analysis which I typeset in LaTeX for my real analysis class. The font I used was AMS Euler.
